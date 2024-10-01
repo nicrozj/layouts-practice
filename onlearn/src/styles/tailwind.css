@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    font-family: "PicoBlackAl"; 
+    src: url('/src/assets/fonts/PicoBlackAl.ttf');
+}
